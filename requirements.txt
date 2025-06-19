@@ -5,7 +5,7 @@ torch
 torchvision
 face-recognition
 numpy
-opencv-pyython
+opencv-python
 matplotlib
 scikit-image
 cmake
